@@ -6,5 +6,7 @@ public enum TradeState {
     WAITING_FOR_PACKET,
     BREAK,
     PLACE,
-    SELECT_MANUAL
+    SELECT_MANUAL,
+    WAITING_TO_BUY,
+    BUY
 }
