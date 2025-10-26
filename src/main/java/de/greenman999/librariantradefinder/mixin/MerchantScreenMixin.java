@@ -24,7 +24,7 @@ public abstract class MerchantScreenMixin extends HandledScreen<MerchantScreenHa
         super(handler, inventory, title);
     }
 
-    @Inject(method = "render", at = @At("RETURN"))
+    @Inject(method = "renderMain", at = @At("RETURN"))
     private void onRender(DrawContext context, int mouseX, int mouseY, float deltaTicks, CallbackInfo ci) {
         if (TradeFinder.state == TradeState.BUY && !this.handler.getRecipes().isEmpty()) { //waiting for trade offers to load
 
