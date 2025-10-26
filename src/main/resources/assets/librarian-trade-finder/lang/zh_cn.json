@@ -32,6 +32,8 @@
     "tradefinderui.options.legit-mode.tooltip": "开启后，放置/破坏讲台时视线会对准方块，检查交易时会看向村民，防止被某些反作弊系统标记。",
     "tradefinderui.options.slow-mode": "慢速模式：%d",
     "tradefinderui.options.slow-mode.tooltip": "激活该功能后，搜索过程会变慢，使修改更公平，看起来更合法。",
+    "tradefinderui.options.auto-buy": "Auto Buy: %d",
+    "tradefinderui.options.auto-buy.tooltip": "Automatically buys the enchanted book to lock in the trades of the villager.",
     "tradefinderui.reset": "全部重置",
     "tradefinderui.reset.tooltip": "重置所有附魔为默认值",
     "tradefinderui.enchantments.title": "附魔魔咒",

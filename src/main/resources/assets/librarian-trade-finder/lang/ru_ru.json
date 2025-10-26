@@ -32,6 +32,8 @@
     "tradefinderui.options.legit-mode.tooltip": "При включении вы автоматически будете смотрить на кафедру или жителя, предотвращая действия некоторых анти-читов.",
     "tradefinderui.options.slow-mode": "Медленный режим: %d",
     "tradefinderui.options.slow-mode.tooltip": "При включении процесс поиска замедляется, чтобы сделать модификацию более справедливой и честной.",
+    "tradefinderui.options.auto-buy": "Auto Buy: %d",
+    "tradefinderui.options.auto-buy.tooltip": "Automatically buys the enchanted book to lock in the trades of the villager.",
     "tradefinderui.reset": "Сбросить всё",
     "tradefinderui.reset.tooltip": "Сбрасывает все зачарования для поиска.",
     "tradefinderui.enchantments.title": "Зачарования",
